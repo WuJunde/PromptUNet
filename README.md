@@ -4,6 +4,8 @@ The PromptUNet produces high quality organ/tissue masks from input prompts such 
 
 Check our [Paper](https://arxiv.org/pdf/2305.10300v1.pdf) for details.
 
+<img width="880" height="550" src="https://github.com/WuJunde/PromptUNet/blob/main/promptunet_show.png">
+
 ### Implementation
 
 The code will be released 🔓... not very soon.

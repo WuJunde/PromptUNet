@@ -3,7 +3,8 @@
 The PromptUNet produces high quality organ/tissue masks from input prompts such as doodles, points, or boxes. It has strong zero-shot performance on a variety of medical image segmentation tasks, including CT, MRI, ultrasound, fundus, and dermoscopic images.
 
 Check our [Paper](https://arxiv.org/pdf/2305.10300v1.pdf) for details.
-<img width="880" height="520" src="https://github.com/WuJunde/PromptUNet/blob/main/promptunet_show.png">
+
+<img width="880" height="530" src="https://github.com/WuJunde/PromptUNet/blob/main/promptunet_show.png">
 
 ### Implementation
 
